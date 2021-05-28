@@ -26,8 +26,8 @@ In the Car Price Prediction Project, it is about predicting price of the car on 
 <li>Transmission</li>
 <li>Owner</li>
 <li>Number_Of_Years</li>
-
-You can download the dataset from <a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv">here</a>
+<br>
+<b>You can download the dataset from <a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv">here</a></b>
 
 #### Workflow
 
