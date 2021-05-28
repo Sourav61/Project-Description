@@ -1,4 +1,4 @@
-# Project name
+# Car Price Prediction
 
 #### Mentor
 
@@ -17,7 +17,7 @@
 
 
 #### About Project 
-In the Car Price Prediction Project, it is about predicting which model of car would be more successful on basis of different variables used for prediction:
+In the Car Price Prediction Project, it is about predicting price of the car on the basis of different variables used for prediction as follows:
 
 <li>Present_Price</li>
 <li>Kms_Driven</li>
@@ -27,7 +27,19 @@ In the Car Price Prediction Project, it is about predicting which model of car w
 <li>Owner</li>
 <li>Number_Of_Years</li>
 
-
+You can download the dataset from <a href="">here</a>
 
 #### Workflow
 
+Initially, we collected data for the training model.
+Then there occurred the preprocessing and training phase.
+The training phase completed and the model was created.
+We tested the model by importing in the code of face-detection.
+The output shows if the face detected is wearing mask.
+
+<ol>
+  <li> We downloaded the dataset from kaggle and then imported the dataset</li>
+  <li>Then we performed EDA on dataset i.e data preprocessing, data cleaning and data </li>
+  <li></li>
+  <li></li>
+  <li></li>
