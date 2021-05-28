@@ -2,8 +2,8 @@
 
 #### Mentor
 <ul type="square">
-  <li><b>Samiksha Bhavsar</b><br></li>
-  <li><b>Giduturi Namrata Sai</b></li>
+  <li><b><a href="https://www.linkedin.com/in/samiksha-bhavsar-33837417a/">Samiksha Bhavsar</a></b><br></li>
+  <li><b><a href="https://www.linkedin.com/in/giduturi-namrata-0898991b1/">Giduturi Namrata Sai</a></b></li>
 </ul>
 
 #### Members
