@@ -1,10 +1,10 @@
 # Car Price Prediction
 
 #### Mentor
-
-<b>Samiksha Bhavsar</b><br>
-<b>Giduturi Namrata Sai</b>
-
+<ul type="square">
+  <li><b>Samiksha Bhavsar</b><br></li>
+  <li><b>Giduturi Namrata Sai</b></li>
+</ul>
 
 #### Members
 
