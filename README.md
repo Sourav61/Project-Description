@@ -27,19 +27,15 @@ In the Car Price Prediction Project, it is about predicting price of the car on 
 <li>Owner</li>
 <li>Number_Of_Years</li>
 
-You can download the dataset from <a href="">here</a>
+You can download the dataset from <a href="https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv">here</a>
 
 #### Workflow
 
-Initially, we collected data for the training model.
-Then there occurred the preprocessing and training phase.
-The training phase completed and the model was created.
-We tested the model by importing in the code of face-detection.
-The output shows if the face detected is wearing mask.
-
 <ol>
-  <li> We downloaded the dataset from kaggle and then imported the dataset</li>
-  <li>Then we performed EDA on dataset i.e data preprocessing, data cleaning and data </li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li> We downloaded the dataset from kaggle and then imported the dataset.</li>
+  <li>Then we have started performing EDA on dataset i.e. data preprocessing, data cleaning and data transformation.</li>
+  <li>Firstly, we checked for any null values present in the dataset and then dropped the columns containing those null values!</li>
+  <li>Secondly, we have plotted the correlation between the variables using heatmap and pairplot both from seaborn library!!</li>
+  <li>Then we used various ML Algortihms like <b>Random Forest Regressor</b> (A Supervised Learning Algorithm) and <b>Grid Seacrh CV </b>as an Optimiztion Algorithm!!!</li>
+  <li>At Last, We have printed relation between Selling Price and Count using Histogram and Scatter Plot and also printed <b>Mean Absolute Error(MAE), Mean Squared Error(MSE)</b> and </b>Root Mean Square Error (RMSE)</b></li>
+</ol>
