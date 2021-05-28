@@ -10,10 +10,10 @@
 
 ||Name|
 |-|-|
-|1|<a href="https://www.linkedin.com/in/hemachandiran-t-081836171/">Hemachandiran</a>|
-|2|<a href="https://www.linkedin.com/in/sagar-dhandare-a401271a3/">Sagar Dhandare P ML P</a>|
-|3|<a href="https://www.linkedin.com/in/sourav-pahwa-93b4041b6/">Sourav Pahwa</a>|
-|4|<a href="https://www.linkedin.com/in/nikita-srivastava-0738bb162/">Nikita Srivastava</a>|
+|<li>|<a href="https://www.linkedin.com/in/hemachandiran-t-081836171/">Hemachandiran</a>|
+|<li>|<a href="https://www.linkedin.com/in/sagar-dhandare-a401271a3/">Sagar Dhandare P ML P</a>|
+|<li>|<a href="https://www.linkedin.com/in/sourav-pahwa-93b4041b6/">Sourav Pahwa</a>|
+|<li>|<a href="https://www.linkedin.com/in/nikita-srivastava-0738bb162/">Nikita Srivastava</a>|
 
 
 #### About Project 
